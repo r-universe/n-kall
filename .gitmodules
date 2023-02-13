@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/n-kall/n-kall.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "priorsense"]
+	path = priorsense
+	url = https://github.com/n-kall/priorsense
+	shallow = true
+	registered = true
