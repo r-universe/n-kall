@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["n-kall.r-universe.dev", "priorsense"]
+  "repositories": ["priorsense", "n-kall.r-universe.dev"]
 }
