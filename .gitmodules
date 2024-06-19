@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/n-kall/n-kall.r-universe.dev
 	branch = HEAD
-[submodule "iwmm"]
-	path = iwmm
-	url = https://github.com/topipa/iwmm
-	registered = false
 [submodule "priorsense"]
 	path = priorsense
 	url = https://github.com/n-kall/priorsense
